@@ -1,7 +1,7 @@
 # Vishnu Kant Sharma  
 **Full Stack Developer | DevOps Learner | Computer Science Student**
 
-📩 **Email:** dev.vishnukantsharma@gmail.com  
+📩 **Email:** vishnusharma2k03@gmail.com  
 📍 **Location:** India  
 🎓 **Currently pursuing:** B.Tech in Computer Science & Engineering
 
