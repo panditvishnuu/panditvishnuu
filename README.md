@@ -59,7 +59,7 @@ Hi! I'm Vishnu — a Computer Science student who enjoys building web applicatio
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/vishnu-kant-sharma-a9b2b1257/)
-[![Email](https://img.shields.io/badge/Email-dev.vishnukantsharma@gmail.com-red?logo=gmail)](mailto:dev.vishnukantsharma@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vishnusharma2k03@gmail.com-red?logo=gmail)](mailto:vishnusharma2k03@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-panditvishnuu-black?logo=github)](https://github.com/panditvishnuu)
 
 ---
