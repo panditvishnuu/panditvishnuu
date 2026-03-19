@@ -1,75 +1,114 @@
-# Vishnu Kant Sharma  
-**Full Stack Developer | DevOps Learner | Computer Science Student**
+<div align="center">
 
-📩 **Email:** vishnusharma2k03@gmail.com  
-📍 **Location:** India  
-🎓 **Currently pursuing:** B.Tech in Computer Science & Engineering
+```
+██╗   ██╗██╗███████╗██╗  ██╗███╗   ██╗██╗   ██╗
+██║   ██║██║██╔════╝██║  ██║████╗  ██║██║   ██║
+██║   ██║██║███████╗███████║██╔██╗ ██║██║   ██║
+╚██╗ ██╔╝██║╚════██║██╔══██║██║╚██╗██║██║   ██║
+ ╚████╔╝ ██║███████║██║  ██║██║ ╚████║╚██████╔╝
+  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝
+```
 
----
+### Backend Engineer · Building Production Systems at Scale
 
-## 🚀 About Me
+[![Email](https://img.shields.io/badge/dev.vishnukantsharma%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.vishnukantsharma@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-kant-sharma-a9b2b1257/)
+[![GitHub](https://img.shields.io/badge/panditvishnuu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/panditvishnuu)
 
-Hi! I'm Vishnu — a Computer Science student who enjoys building web applications and learning how things work behind the scenes. I’ve been working with the **MERN stack** and **Next.js**, and recently started diving into **DevOps** and **cloud technologies** to understand the deployment and scalability side of projects.
-
----
-
-## 🛠️ What I’m Working On
-
-- Building full-stack projects using **MongoDB, Express, React, Node.js**, and **Next.js**
-- Learning and experimenting with **DevOps tools** like Docker and GitHub Actions
-- Exploring cloud services on **AWS**, especially EC2 and S3
-- Preparing for **placements and coding interviews** (DSA + core CS subjects)
+</div>
 
 ---
 
-## 🌱 Skills & Tools
+## `$ whoami`
 
-### 💻 Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-Basics-yellow) 
-![React](https://img.shields.io/badge/React-Intermediate-61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-Learning-black)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933)
-![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-blue)
-![Python](https://img.shields.io/badge/Python-Learning-3776AB)
-![Java](https://img.shields.io/badge/Java-Used_for_DSA-ED8B00)
+I'm a backend engineer currently working at **Razorpay** on fraud detection and merchant risk systems — real production code, real scale, real consequences if something breaks.
 
-### ⚙️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-Intermediate-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Active_User-black)
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Learning-2088FF)
-![Linux](https://img.shields.io/badge/Linux-Comfortable-yellowgreen)
+I don't just write features. I've resolved **200+ production incidents**, led a regulated microservice migration, and shipped encryption upgrades for systems serving **500+ merchants**. I write tests not because someone told me to — but because I raised coverage from **30% → 70%** and watched regression bugs drop by **37%**.
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248)
-![Firebase](https://img.shields.io/badge/Firebase-Used_for_auth_and_DB-FFCA28)
+My stack is opinionated: **Go** for systems that need to be fast and correct, **gRPC** when REST isn't enough, and LLMs when the problem calls for it.
 
 ---
 
-## 💡 Interests
+## `$ cat /work/razorpay.log`
 
-- Full Stack Web Development using React and Node.js
-- Learning **DevOps**: CI/CD, containers, and deployment strategies
-- Understanding how cloud platforms like AWS work
-- Solving problems with **DSA** and core CS fundamentals (OS, DBMS, CN, OOP)
-- Growing into a well-rounded **software engineer** ready for the industry
+> **Product Support Engineer Intern** · Razorpay · Sep 2025 – Present
 
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/vishnu-kant-sharma-a9b2b1257/)
-[![Email](https://img.shields.io/badge/Email-vishnusharma2k03@gmail.com-red?logo=gmail)](mailto:vishnusharma2k03@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-panditvishnuu-black?logo=github)](https://github.com/panditvishnuu)
-
----
-
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=panditvishnuu&show_icons=true&theme=github_dark&hide_title=true)](https://github.com/panditvishnuu)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panditvishnuu&layout=compact&theme=github_dark)](https://github.com/panditvishnuu)
+```
+[✓] Resolved 200+ production incidents in Go fraud detection & merchant risk services
+[✓] Led v2 migration of TRAI/DoT-regulated MNRL alerts microservice (500+ merchants)
+    → Implemented RSA-OAEP + AES-GCM encryption
+    → Reduced downstream API payload sizes by 35%
+[✓] Wrote 130+ Unit & E2E tests across core Go repositories
+    → Coverage: 30% → 70% | 60% → 80%
+    → Post-deployment regression bugs ↓ 37%
+[✓] 2nd place — Razorpay Internal Hackathon (Jan 2026)
+```
 
 ---
 
-> “Still learning, still building, still growing 🚀”
+## `$ ls -la /projects`
+
+### 🔐 Self-Serve Fraud Rule Generation Platform
+`Go` `NLP` `LLMs` `gRPC` · *Jan 2026*
+
+Natural language → deterministic, deployable fraud rules. No developer in the loop.
+
+- Compiled merchant prompts into syntactically correct fraud rules with **100% validity** across 50+ variations
+- Automated rule deployment via gRPC with **sub-millisecond latency overhead**
+- Enforced strict LLM output constraints using parameter validation — no hallucinated rules reach production
+
+---
+
+### 🧠 SensAI — AI Career Coach
+`Next.js` `Inngest` `Prisma` `NeonDB` `Gemini` · *Apr 2025*
+
+- Full-stack AI platform generating tailored resumes + interactive interview simulations in **< 10 seconds**
+- Async event orchestration with Inngest, handling **100+ concurrent users** without breaking a sweat
+
+---
+
+## `$ cat /skills/stack.json`
+
+```json
+{
+  "languages":    ["Go", "Java", "Python", "JavaScript", "SQL"],
+  "backend":      ["REST", "gRPC", "Protobuf", "Kafka", "Redis", "Microservices"],
+  "concepts":     ["Distributed Systems", "Concurrency", "System Design", "DSA"],
+  "databases":    ["MySQL", "PostgreSQL", "MongoDB"],
+  "infra":        ["Docker", "Kubernetes", "AWS", "CI/CD", "Linux"],
+  "frontend":     ["React", "Next.js", "HTML", "CSS"],
+  "currently":    ["Fraud Systems", "LLM-powered tooling", "Backend Architecture"]
+}
+```
+
+---
+
+## `$ cat /stats/github`
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=panditvishnuu&show_icons=true&theme=chartreuse-dark&hide_title=true&hide_border=true&bg_color=0d1117&icon_color=00ff88&text_color=c9d1d9)](https://github.com/panditvishnuu)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panditvishnuu&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9)](https://github.com/panditvishnuu)
+
+</div>
+
+---
+
+## `$ cat /misc/about.txt`
+
+```
+Education   : B.Tech CSE · NIET Greater Noida · CGPA 8.8
+Leadership  : VP, NIET Coding Cadets Club (Feb 2025 – Sep 2025)
+Hackathons  : 🥈 Razorpay Internal Hackathon (Jan 2026)
+Location    : Bengaluru, Karnataka, India
+Status      : Open to full-time backend / systems engineering roles
+```
+
+---
+
+<div align="center">
+
+*The best systems are invisible. The best engineers make them that way.*
+
+</div>
