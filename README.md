@@ -1,13 +1,5 @@
 <div align="center">
 
-text
-██╗   ██╗██╗███████╗██╗  ██╗███╗   ██╗██╗   ██╗
-██║   ██║██║██╔════╝██║  ██║████╗  ██║██║   ██║
-██║   ██║██║███████╗███████║██╔██╗ ██║██║   ██║
-╚██╗ ██╔╝██║╚════██║██╔══██║██║╚██╗██║██║   ██║
- ╚████╔╝ ██║███████║██║  ██║██║ ╚████║╚██████╔╝
-  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝
-
 Software Engineer (Backend) · Building Reliable Systems at Scale
 
 ![Email](https://img.shields.io/badge/dev.vishnukantsharma%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/panditvishnuu-181717?style=flat-square&logo=github&logoColor=white)
