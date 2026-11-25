@@ -1,40 +1,34 @@
 <div align="center">
 
-Software Engineer (Backend) · Building Reliable Systems at Scale
+Backend Engineer · Building Production Systems at Scale
 
-![Email](https://img.shields.io/badge/dev.vishnukantsharma%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/panditvishnuu-181717?style=flat-square&logo=github&logoColor=white)
+![Email](https://img.shields.io/badge/Email-dev.vishnukantsharma%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-panditvishnuu-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
 $ whoami
 
-I'm a Software Engineer (Backend) at Razorpay, working on production-grade fraud detection, merchant risk, and eligibility systems.
+I'm a Software Engineer (Backend) at Razorpay, building production systems across fraud detection, merchant risk, and eligibility management.
 
-I enjoy building backend systems where reliability, correctness, and scalability actually matter. From designing real-time fraud-signal pipelines to implementing dynamic eligibility re-evaluation, I work on problems that directly impact production workflows and merchant experiences.
+I enjoy solving backend engineering problems where reliability, correctness, and scalability matter. From designing real-time fraud-signal pipelines to implementing dynamic merchant eligibility systems, I work on solutions that directly impact production workflows and merchant experiences.
 
-My engineering philosophy is simple: understand the system, solve the underlying problem, and build something that keeps working at scale.
+My engineering philosophy is simple: understand the problem, design for scale, and build systems that remain reliable in production.
 
-I primarily work with Go, Node.js, PostgreSQL, Kafka, Redis, and distributed systems, with a growing interest in AI-powered developer tools and system architecture.
+My primary stack revolves around Go, Node.js, PostgreSQL, Kafka, Redis, and distributed systems, with a growing interest in AI-powered developer tools and system architecture.
 
-$ cat /work/experience.log
-Software Engineer (Backend) · Razorpay
-
-September 2025 – Present · Bengaluru, India
-
+$ cat /work/razorpay.log
+Software Engineer (Backend) · Razorpay · September 2025 – Present
 text
 [✓] Led design and delivery of MNRL v2 real-time fraud-signal pipeline
     → Integrated Department of Telecommunications' revoked mobile number list
-    → Owned delivery end-to-end, from vendor onboarding to production
+    → Owned end-to-end delivery, from vendor onboarding to production
 
 [✓] Designed and implemented dynamic merchant eligibility re-evaluation
     → Recalculates eligibility whenever a merchant changes business type
     → Replaced one-time, write-only eligibility checks
     → Eliminated incorrect fee prompts for registered businesses
 
-Node.js Developer Intern · SIHO Research
-
-October 2024 – December 2024 · Greater Noida, India
-
+Node.js Developer Intern · SIHO Research · October 2024 – December 2024
 text
 [✓] Developed and integrated 10+ RESTful API routes using Node.js/Express
 [✓] Built backend APIs powering financial dashboard data
@@ -49,7 +43,7 @@ Next.js Liveblocks Trigger.dev Google Gemini PostgreSQL · June 2026
 
 An AI-powered collaborative canvas that transforms natural-language prompts into interactive system architecture diagrams.
 
-Built an AI-driven architecture generation workflow where Gemini generates nodes and edges through Trigger.dev.
+Built an AI-driven architecture generation workflow where Google Gemini generates nodes and edges through Trigger.dev.
 Integrated Liveblocks for shared canvas storage, real-time collaboration, and live cursors.
 Separated storage responsibilities using PostgreSQL for project metadata and RBAC, and Vercel Blob for generated canvas snapshots and Markdown specifications.
 Implemented end-to-end type safety across Prisma, TypeScript, and React Flow to prevent runtime schema drift.
@@ -88,14 +82,14 @@ json
     "gRPC",
     "Microservices"
   ],
-  "databases": [
-    "PostgreSQL",
-    "MySQL",
-    "MongoDB"
-  ],
   "messaging": [
     "Apache Kafka",
     "Redis"
+  ],
+  "databases": [
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB"
   ],
   "infrastructure": [
     "Docker",
@@ -126,25 +120,24 @@ $ cat /stats/github
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=panditvishnuu&show_icons=true&theme=chartreuse-dark&hide_title=true&hide_border=true&bg_color=0d1117&icon_color=00ff88&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panditvishnuu&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panditvishnuu&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9)
 
 </div>
 
 $ cat /misc/about.txt
 text
-Name        : Vishnu Kant Sharma
-Role        : Software Engineer (Backend) @ Razorpay
-Education   : B.Tech CSE · NIET Greater Noida · 2022–2026
+Education   : B.Tech CSE · NIET Greater Noida · CGPA 8.8
+              2022 – 2026
 Leadership  : Vice President, NIET Coding Cadets Club
               February 2025 – September 2025
-Achievement : 🥈 2nd Place · Razorpay Internal Hackathon · January 2026
+Hackathons  : 🥈 2nd Place · Razorpay Internal Hackathon · January 2026
 Location    : Bengaluru, Karnataka, India
-Interests   : Backend Engineering, Distributed Systems, System Design
-Status      : Open to interesting backend and systems engineering opportunities
+Interests   : Backend Engineering · Distributed Systems · System Design
+Status      : Open to full-time backend / systems engineering roles
 
 
 <div align="center">
 
-Building systems that scale. Engineering things that last.
+The best systems are invisible. The best engineers make them that way.
 
 </div>
