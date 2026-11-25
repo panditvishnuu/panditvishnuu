@@ -17,7 +17,11 @@ My engineering philosophy is simple: understand the problem, design for scale, a
 My primary stack revolves around Go, Node.js, PostgreSQL, Kafka, Redis, and distributed systems, with a growing interest in AI-powered developer tools and system architecture.
 
 $ cat /work/razorpay.log
-Software Engineer (Backend) · Razorpay · September 2025 – Present
+
+Software Engineer (Backend) · Razorpay
+
+September 2025 – Present · Bengaluru, India
+
 text
 [✓] Led design and delivery of MNRL v2 real-time fraud-signal pipeline
     → Integrated Department of Telecommunications' revoked mobile number list
@@ -28,7 +32,11 @@ text
     → Replaced one-time, write-only eligibility checks
     → Eliminated incorrect fee prompts for registered businesses
 
-Node.js Developer Intern · SIHO Research · October 2024 – December 2024
+
+Node.js Developer Intern · SIHO Research
+
+October 2024 – December 2024 · Greater Noida, India
+
 text
 [✓] Developed and integrated 10+ RESTful API routes using Node.js/Express
 [✓] Built backend APIs powering financial dashboard data
@@ -39,7 +47,9 @@ text
 $ ls -la /projects
 ⚙️ AI System Architecture Builder
 
-Next.js Liveblocks Trigger.dev Google Gemini PostgreSQL · June 2026
+June 2026
+
+Next.js Liveblocks Trigger.dev Google Gemini PostgreSQL
 
 An AI-powered collaborative canvas that transforms natural-language prompts into interactive system architecture diagrams.
 
@@ -52,7 +62,9 @@ Implemented end-to-end type safety across Prisma, TypeScript, and React Flow to 
 
 🚀 Go Webhook Delivery System
 
-Go Kafka Redis PostgreSQL Docker · March 2026
+March 2026
+
+Go Kafka Redis PostgreSQL Docker
 
 A fault-tolerant, horizontally scalable webhook delivery platform designed for high-throughput event processing.
 
@@ -120,7 +132,9 @@ $ cat /stats/github
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=panditvishnuu&show_icons=true&theme=chartreuse-dark&hide_title=true&hide_border=true&bg_color=0d1117&icon_color=00ff88&text_color=c9d1d9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panditvishnuu&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9)
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panditvishnuu&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9)
 
 </div>
 
@@ -128,11 +142,16 @@ $ cat /misc/about.txt
 text
 Education   : B.Tech CSE · NIET Greater Noida · CGPA 8.8
               2022 – 2026
+
 Leadership  : Vice President, NIET Coding Cadets Club
               February 2025 – September 2025
+
 Hackathons  : 🥈 2nd Place · Razorpay Internal Hackathon · January 2026
+
 Location    : Bengaluru, Karnataka, India
+
 Interests   : Backend Engineering · Distributed Systems · System Design
+
 Status      : Open to full-time backend / systems engineering roles
 
 
